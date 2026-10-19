@@ -13,5 +13,5 @@
 ```bash
 git init
 git add .
-git commit -m "Creacion del README.md sobre lo aprendido en el curso"
+git commit -m "Crear README inicial del curso"
 ```
